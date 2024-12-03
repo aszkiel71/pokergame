@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "username": "V",
+            "password": "Cyberpunk",
+            "email": "v@v.us",
+            "phone_number": "2077",
+            "balance": 12000000
+        },
+        {
+            "username": "vernonroche",
+            "password": "Temeria",
+            "email": "jebac@nilfgard.de",
+            "phone_number": "1272",
+            "balance": 300
+        },
+        {
+            "username": "admin",
+            "password": "password",
+            "email": "ju@niga.ua",
+            "phone_number": "997",
+            "balance": 1000
+        },
+        {
+            "username": "NiGeR",
+            "password": "k",
+            "email": "k@urwa.pl",
+            "phone_number": "112",
+            "balance": 500
+        },
+        {
+            "username": "Kurwa",
+            "password": "mac",
+            "email": "@",
+            "phone_number": "9",
+            "balance": 500
+        }
+    ]
+}

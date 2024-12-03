@@ -1,0 +1,13 @@
+{
+  "game_sessions": [
+    {
+      "game_id": "",
+      "date": "session_1",
+      "logged_user" : "V",
+      "number_of_hands" : 4,
+      "players" : ["V","Emhyr var Emreis", "Takemura", "Geralt"],
+      "winners" : ["Geralt", "V"],
+      "loosers" : ["Emhyr var Emreis", "Geralt"]
+    }
+  ]
+}
